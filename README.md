@@ -1,16 +1,24 @@
-# chat
+# Flutter Workshops 28.02.2019
 
-A new Flutter project.
+Chat application backboned with Firebase.
 
-## Getting Started
+## Environment setup
 
-This project is a starting point for a Flutter application.
+1. Getting started.  
+Follow official getting started steps: https://flutter.io/docs/get-started/install
 
-A few resources to get you started if this is your first Flutter project:
+2. Create project.  
+`flutter create chat`
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+3. Setup iOS/Android device.  
+Follow instructions: https://flutter.io/docs/get-started/install/macos#create-and-run-a-simple-flutter-app
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+4. Run project.  
+`flutter run`
+
+5. Prepare your editor.  
+https://flutter.io/docs/get-started/editor  
+Open project in your favourite editor.  
+`code .`
+
+6. Change something in code and make sure hot reload works as expected.
